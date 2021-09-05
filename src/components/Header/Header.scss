@@ -1,0 +1,32 @@
+@import "../../const/colors.scss";
+
+.header {
+  width: 100vw;
+  height: 25vh;
+  background-color: $primary;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.head {
+  min-height: 75%;
+  height: 75%;
+  width: 60%;
+  color: $white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  p {
+    font-size: 30px;
+  }
+}
+
+.head-body {
+  min-height: 25%;
+  height: 25%;
+  background-color: $white;
+  width: 60%;
+}

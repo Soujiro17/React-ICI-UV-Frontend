@@ -1,0 +1,39 @@
+@import "../../const/colors.scss";
+
+.tarjeta {
+  height: 600px;
+  width: 300px;
+  background-color: $primary;
+}
+
+.tarjeta-head {
+  min-height: 35%;
+  height: 35%;
+  min-width: 100%;
+  width: 100%;
+}
+
+.tarjeta-foto {
+  height: 100%;
+  width: 100%;
+}
+
+.tarjeta-body {
+  padding: 30px;
+  color: $noticia_color;
+  font-size: 25px;
+  text-align: justify;
+  min-height: 45%;
+  max-height: 45%;
+  height: 45%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.tarjeta-footer {
+  min-height: 10%;
+  height: 10%;
+  width: 100%;
+  color: $noticia_fecha;
+  text-align: center;
+}

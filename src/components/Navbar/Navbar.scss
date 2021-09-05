@@ -1,0 +1,33 @@
+@import "../../const/colors.scss";
+
+.navbar {
+  height: 100%;
+  width: 100%;
+}
+
+.nav-list {
+  color: $navbar_color;
+  font-weight: bolder;
+  height: 100%;
+  margin: 0%;
+  padding: 0%;
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.nav-item {
+  background-color: $navbar_background;
+  height: 100%;
+  width: 300px;
+  border-left: 1px solid $black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+}
+
+.active {
+  background-color: $red;
+  color: $white;
+}

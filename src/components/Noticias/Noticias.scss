@@ -1,0 +1,14 @@
+@import "../../const/colors.scss";
+.noticias {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  grid-gap: 50px;
+}
+
+.noticias-title {
+  font-size: 30px;
+  color: #656565;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
