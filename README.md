@@ -1,3 +1,7 @@
+# Introducción
+
+Un día, aburrido, me puse a recrear la página de la Escuela de Ingeniería Civil en Informática de la Universidad de Valparaíso en ReactJS.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
