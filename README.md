@@ -1,6 +1,6 @@
 # Introducción
 
-Un día, aburrido, me puse a recrear la página de la Escuela de Ingeniería Civil en Informática de la Universidad de Valparaíso en ReactJS. ** No es responsive **
+Un día, aburrido, me puse a recrear la página de la Escuela de Ingeniería Civil en Informática de la Universidad de Valparaíso en ReactJS. No es responsive.
 
 # Getting Started with Create React App
 
